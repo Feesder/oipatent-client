@@ -14,4 +14,4 @@ cd oipatent-client
 ```bash
 npm run dev
 ```
-приложение запускается по адресу http://localhost:3000
+Приложение запускается по адресу http://localhost:3000
